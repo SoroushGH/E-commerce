@@ -73,7 +73,7 @@ GET   ==>  '/products/find_one/:product_id'
 client:  
 
 * from one terminal 
-* cd ecommerce_boilerplate
+* cd ecommerce
 * cd client 
 * npm install
 * npm start
@@ -81,7 +81,7 @@ client:
 server:  
 
 * from another terminal
-* cd ecommerce_boilerplate
+* cd ecommerce
 * cd server 
 * npm install
 * nodemon
